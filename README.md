@@ -2,6 +2,8 @@
 
 `Go`'s cron expression parser library and cron scheduler.
 
+Can readmore at my [blog - Implement cron expression library from scratch](https://abcdlsj.github.io/posts/write-a-cron-expr-scheduler.html)
+
 ## Usage
 
 
